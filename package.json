@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "reactjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsaqib24/react-js.git"
+  },
+  "author": "Saqib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsaqib24/react-js/issues"
+  },
+  "homepage": "https://github.com/iamsaqib24/react-js#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
